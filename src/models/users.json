@@ -1,0 +1,23 @@
+[
+  {
+    "userName": "aa",
+    "numberPhone": 0,
+    "email": "aa",
+    "fullName": "aa",
+    "password": "$2b$10$ZHqVagC21V6RSKGCfyn3weOzVRnmcxZK.IYiPH1UayRhnnxRJXQwy"
+  },
+  {
+    "userName": "aaa",
+    "numberPhone": 0,
+    "email": "aaa",
+    "fullName": "aa",
+    "password": "$2b$10$ztN/18O/XKh4EkE.ZpE57.G/UFhfAQnQG7arUWM2jC2FdC70sRDW2"
+  },
+  {
+    "userName": "a",
+    "numberPhone": 5530353827,
+    "email": "yeder_luna_erick@hotmail.com",
+    "fullName": "Erick Alan Luna Garcia",
+    "password": "$2b$10$dKWke9LDcqd/wMOufY14P.YaRO.aPFYhPjbSGV63AomDxzaBsMqCq"
+  }
+]
